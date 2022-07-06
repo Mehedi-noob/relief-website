@@ -1,0 +1,107 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    border: 0;
+}
+
+.init{
+    background-image: url("images/donation13.jpg");
+    background-position: center;
+    background-size: cover;
+    color: white;
+    padding: 250px;
+    text-align: center;
+    background-repeat: no-repeat;
+}
+.button{
+    text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    
+}
+.alignment{
+    text-align: center;
+    justify-content: center;
+}
+.money_p{
+    
+    display: flex;
+    
+    margin-bottom: 20px;
+}
+.money{
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 100px;
+    background-color: rgb(230, 220, 220);
+    border-radius: 10px;
+}
+#money-color{
+    background-color: rgb(231, 164, 164);
+    border:2px solid red;
+}
+input{
+    width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 2px solid grey;
+}
+
+.div-align{
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 300px;
+    background-color: rgb(230, 220, 220);
+    border-radius: 5px;
+    padding: 20px 30px 10px 15px;
+}
+.align2{
+    justify-content: center;
+}
+.foot-style{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: black;
+}
+.g-font{
+    font-family: 'Finlandica', sans-serif;
+}
+.g-cursive{
+    font-family: 'Cedarville Cursive', cursive;
+    
+}
+.subscribe{
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: grey;
+    padding: 50px;
+    border-radius: 10px;
+}
+#extra-work{
+    background-image: url("images/donation0.jpg");
+    background-size: cover;
+    padding: 50px;
+    display: flex;
+    margin: 100px 0px 100px;
+    border-radius: 10px;
+}
+.extra{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    border-radius: 20px;
+    color: white;
+    
+}
+.extra img{
+    border-radius: 20px;
+}
+#para{
+    background: linear-gradient(45deg, gray, skyblue);
+}
